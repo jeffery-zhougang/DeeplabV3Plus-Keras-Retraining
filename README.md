@@ -9,7 +9,7 @@ keras-2.1.6<br>
 
 ### 说明：
 使用的MNIST数据集进行的一个简单的fine tune的演示。<br>
-需要使用自己的其他数据集，只需要修改模型的input_shape, classes以及选择想用的backbones，并写好自己的data_generator喂数据就好了。
+需要使用自己的其他数据集，只需要修改模型的input_shape, classes以及选择想用的backbones，并写好自己的data_generator喂数据就好了。<br>
 如果你有GPU，修改train.py中的use_gpu为True并设置gpus为你的gpu个数。<br>
 建议在gpu上训练。<br>
 
