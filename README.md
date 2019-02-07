@@ -22,8 +22,6 @@ Keras会自动下载mnist数据集文件:mnist.npz，并且会自动下载预训
     <img src="asserts/05.png" width=600>
     <img src="asserts/07.png" width=600></br>
 </p>
-![训练结果样例1](https://github.com/jeffery-zhougang/DeeplabV3Plus-Keras-Retraining/blob/master/asserts/02.png)![训练结果样例2](https://github.com/jeffery-zhougang/DeeplabV3Plus-Keras-Retraining/blob/master/asserts/04.png)
-![训练结果样例3](https://github.com/jeffery-zhougang/DeeplabV3Plus-Keras-Retraining/blob/master/asserts/05.png)![训练结果样例4](https://github.com/jeffery-zhougang/DeeplabV3Plus-Keras-Retraining/blob/master/asserts/07.png)
 
 ###Reference
 - [Shmuelnaaman's Deeplab_V3](https://github.com/Shmuelnaaman/deeplab_v3)
